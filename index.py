@@ -6,3 +6,5 @@ digits = string.digits
 special_chars = string.punctuation
 
 alphabet = letters + digits + special_chars
+
+pwd_length = 12
